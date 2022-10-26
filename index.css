@@ -1,0 +1,27 @@
+/* Fill CSS here */
+table th,
+table td{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
+form input{
+    padding: 7px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+form select{
+    padding: 7px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+form :last-child{
+background-color: blue;
+color: white;
+
+}
+h1{
+    color: blue;
+    text-align: center;
+    
+}
